@@ -28,6 +28,6 @@ These methods are compared against the DL models to assess their performance in 
 
 The Indian Driving Dataset (IDD) is used for training and evaluating the models. You can access and download the dataset from the following link:
 
-[Indian Driving Dataset (IDD)](https://www.idd-dataset.com/)
+[Indian Driving Dataset (IDD)](https://idd.insaan.iiit.ac.in/)
 
 
