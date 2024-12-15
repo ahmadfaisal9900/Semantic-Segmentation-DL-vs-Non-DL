@@ -98,7 +98,7 @@ num_classes = 34  # Total number of classes
 
 # Define the model
 model = smp.PSPNet(
-    encoder_name="resnet50",  # Ensure this matches your checkpoint's encoder
+    encoder_name="MobileNetV2",  # Ensure this matches your checkpoint's encoder
     encoder_weights=None,     # Avoid loading default weights
     in_channels=3,            # Match input channels
     classes=num_classes        # Match number of output classes
